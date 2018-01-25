@@ -16,6 +16,7 @@
     "build": "electron-packager . --out=dist --asar --overwrite --all"
   },
   "dependencies": {
+    "adafruit-serial-lcd": "0.0.5",
     "electron-debug": "^1.0.0"
   },
   "devDependencies": {
