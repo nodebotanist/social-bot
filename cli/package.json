@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "adafruit-serial-lcd": "0.0.5",
     "color": "^3.0.0",
+    "parse-color": "^1.0.0",
     "yargs": "^11.0.0"
   }
 }
